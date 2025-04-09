@@ -1,5 +1,4 @@
-## Hi there 👋
-
+I am an Electrical and Computer engineering student intersted in Embedded systems and OS development. 
 <!--
 **neethyro/neethyro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
